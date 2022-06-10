@@ -1,0 +1,12 @@
+C:\Users\CunhaKai\development\solutions\projects\csharp\projeto-de-bloco\TP6\SocialNetwork\SocialNetwork.Core\bin\Debug\net6.0\SocialNetwork.Core.deps.json
+C:\Users\CunhaKai\development\solutions\projects\csharp\projeto-de-bloco\TP6\SocialNetwork\SocialNetwork.Core\bin\Debug\net6.0\SocialNetwork.Core.dll
+C:\Users\CunhaKai\development\solutions\projects\csharp\projeto-de-bloco\TP6\SocialNetwork\SocialNetwork.Core\bin\Debug\net6.0\SocialNetwork.Core.pdb
+C:\Users\CunhaKai\development\solutions\projects\csharp\projeto-de-bloco\TP6\SocialNetwork\SocialNetwork.Core\obj\Debug\net6.0\SocialNetwork.Core.csproj.AssemblyReference.cache
+C:\Users\CunhaKai\development\solutions\projects\csharp\projeto-de-bloco\TP6\SocialNetwork\SocialNetwork.Core\obj\Debug\net6.0\SocialNetwork.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CunhaKai\development\solutions\projects\csharp\projeto-de-bloco\TP6\SocialNetwork\SocialNetwork.Core\obj\Debug\net6.0\SocialNetwork.Core.AssemblyInfoInputs.cache
+C:\Users\CunhaKai\development\solutions\projects\csharp\projeto-de-bloco\TP6\SocialNetwork\SocialNetwork.Core\obj\Debug\net6.0\SocialNetwork.Core.AssemblyInfo.cs
+C:\Users\CunhaKai\development\solutions\projects\csharp\projeto-de-bloco\TP6\SocialNetwork\SocialNetwork.Core\obj\Debug\net6.0\SocialNetwork.Core.csproj.CoreCompileInputs.cache
+C:\Users\CunhaKai\development\solutions\projects\csharp\projeto-de-bloco\TP6\SocialNetwork\SocialNetwork.Core\obj\Debug\net6.0\SocialNetwork.Core.dll
+C:\Users\CunhaKai\development\solutions\projects\csharp\projeto-de-bloco\TP6\SocialNetwork\SocialNetwork.Core\obj\Debug\net6.0\refint\SocialNetwork.Core.dll
+C:\Users\CunhaKai\development\solutions\projects\csharp\projeto-de-bloco\TP6\SocialNetwork\SocialNetwork.Core\obj\Debug\net6.0\SocialNetwork.Core.pdb
+C:\Users\CunhaKai\development\solutions\projects\csharp\projeto-de-bloco\TP6\SocialNetwork\SocialNetwork.Core\obj\Debug\net6.0\ref\SocialNetwork.Core.dll
